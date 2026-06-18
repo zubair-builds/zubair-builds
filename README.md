@@ -1,41 +1,69 @@
-# Zubair Haider
+I'm a Senior Full-Stack Engineer with 10+ years of experience shaping scalable, high-performance distributed systems and dynamic web applications. I am adept at spearheading the development of core modules, optimizing backend APIs, designing schema-first platforms, and building comprehensive SaaS products from the ground up.
 
-**Senior Full-Stack Engineer architecting scalable, high-performance distributed systems and AI-driven applications.**
+Recently, I've been focusing heavily on AI-assisted development, gaining expertise in integrating Google Gemini API and LLM-powered feature development into modern applications. I am actively architecting "PortfolioTrack"—a full-stack financial dashboard featuring a highly optimized gain/loss engine and seamless AI integration. I'm a fast learner committed to pushing the boundaries of web technologies and seeking to make a meaningful impact by delivering AI-driven solutions that redefine user experiences.
 
-## 🎯 Current Focus
-I am currently architecting **PortfolioTrack**—a full-stack financial dashboard featuring a highly optimized gain/loss engine and seamless AI integration. The platform is engineered for high performance, reliability, and scale, built using **Next.js**, **TypeScript**, and **MongoDB**.
+🔗 LinkedIn: https://linkedin.com/in/zubairhaider0906
+🐙 GitHub: https://github.com/zubair-builds
+📧 Email: zubairhaider0906@gmail.com
+📞 Phone/WhatsApp: +92 334 6787643
+📍 Based in: Lahore, Pakistan
 
-## 🛠️ Technical Stack
-I specialize in building robust backend services, data modeling, and high-performance frontend applications.
+### 🚀 Current Focus & Aspirations
+Passionate about AI integration and high-performance applications, my recent work has equipped me to explore the potential of LLM-powered platforms. I am aspiring to contribute to innovative, scalable systems and invite you to review my work here on GitHub. I'm excited to collaborate on cutting-edge Next.js and Node.js initiatives and help drive the future of intelligent web applications. Let's connect and shape the tech ecosystem together!
 
-### Frontend
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **TypeScript** — Strongly typed application logic.
-- ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) **React** — Component-driven, dynamic user interfaces.
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) **Next.js** — Server-side rendering, static site generation, and optimized frontend routing.
+### 🛠️ My Skillset
+**Frontend Technologies**
 
-### Backend
-- ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) **Node.js** — High-performance, asynchronous backend services.
-- ![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express) **Express** — Robust RESTful API development.
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) **MongoDB** — Schema design, targeted indexing, and scalable document storage.
+JavaScript TypeScript React.js Redux React Native Next.js HTML5 CSS3 Tailwind CSS Radix UI A-Frame
 
-### Cloud & DevOps
-- ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) **Google Cloud** — Scalable cloud infrastructure and managed services.
-- ![Docker](https://img.shields.io/badge/-Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) **Docker** — Containerization for consistent environments across the deployment pipeline.
-- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white) **Jenkins** — Automated CI/CD workflows and deployment pipelines.
+**Backend Technologies**
 
-## 🔗 Quick Links
-- [LinkedIn Profile](#)
-- [Live Deployments (Vercel)](#)
-- [Download Full CV](#)
+Node.js Express.js GraphQL REST APIs PostgreSQL MongoDB Redis
 
-## 📊 GitHub Stats
+**Cloud, DevOps & Tools**
 
-<!-- 
-  TODO: Inject GitHub contribution stats or streak widgets here.
-  
-  Example using github-readme-stats (strictly professional theme):
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=007ACC&icon_color=007ACC)
-  
-  Example using github-readme-streak-stats:
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&title_color=007ACC&icon_color=007ACC)
--->
+Git GitHub Docker AWS Kubernetes CI/CD GitHub Actions Google Cloud Jenkins Jest Playwright
+
+**AI & Assisted Development**
+
+Google Gemini API Prompt Engineering LLM-powered feature development
+
+### 💼 Professional Experience
+**Senior Full-Stack Engineer | Lexic Intelligence**
+(09/2025 - Present)
+
+Worked on an AI-powered English learning platform:
+Lexic Intelligence: Architected an AI-driven learning platform using Next.js, TypeScript, and MongoDB. Integrated Google Gemini AI to generate context-aware meanings in under 2 seconds. Developed optimized Next.js API routes with MongoDB indexing, achieving response times below 100ms. Built a responsive UI achieving 95+ Google Lighthouse scores.
+
+**Senior Full-Stack Engineer | Unqork**
+(08/2022 - 08/2025)
+
+Worked on an AI no-code development platform used by Fortune 500 enterprises:
+Unqork Platform: Designed a schema-first platform enabling 100+ enterprise financial implementations through auto-generated modules. Built a JSON Schema–driven Data Model layer with lifecycle management. Re-architected MongoDB into per-module collections, improving query performance by ~40%. Delivered React management portals backed by a secure GraphQL API.
+
+**Senior Software Engineer | GigaLabs**
+(11/2020 - 08/2022)
+
+Worked on a global survey & analytics SaaS platform:
+Flavorwiki: Led frontend development using React.js, GraphQL, and Redux. Built dynamic survey builders and analytics dashboards for large-scale enterprise deployments. Implemented report exports using Puppeteer and multi-language support. Optimized GraphQL and Node.js integrations.
+
+**Software Engineer | Kwanso**
+(04/2016 - 10/2020)
+
+Worked on multiple major projects:
+CollegeAdvisor: Developed scalable frontend features reducing page rendering time from ~2s to under 1s. Enhanced Node.js backend services to support concurrent streaming workflows.
+RCBS Matchmaster: Developed an IoT-enabled cross-platform mobile app using React Native controlling powder dispensing machines. Integrated Bluetooth APIs for hardware communication.
+
+### 📂 Featured Projects (Names)
+Lexic Intelligence (Next.js, TypeScript, AI / English Learning Platform)
+PortfolioTrack (Next.js, TypeScript, MongoDB / Financial Dashboard)
+Unqork (React, Node, GraphQL / AI No-code Platform)
+Flavorwiki (React, GraphQL, Node / Survey & Analytics SaaS)
+CollegeAdvisor (React, Node / Mentorship Platform)
+RCBS Matchmaster (React Native, IoT Mobile App)
+
+### 🎓 Education
+**BS in Computer Science | National University of Computer & Emerging Sciences, Lahore**
+(2011 - 2015)
+
+Specialization in Computer Science.
