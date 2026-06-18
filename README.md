@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="profile_banner.png" alt="Zubair Haider - Senior Full-Stack Engineer" width="100%" />
+  <img alt="Zubair Haider - Senior Full-Stack Engineer" width="100%" src="https://github.com/user-attachments/assets/350eeea5-958d-490a-be9c-271e1e6785e0" />
 </p>
+
 
 # Zubair Haider
 
