@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile_banner.png" alt="Zubair Haider - Senior Full-Stack Engineer" width="100%" />
+</p>
+
 # Zubair Haider
 
 I'm a Senior Full-Stack Engineer with 10+ years of experience shaping scalable, high-performance distributed systems and dynamic web applications. I am adept at spearheading the development of core modules, optimizing backend APIs, designing schema-first platforms, and building comprehensive SaaS products from the ground up.
