@@ -2,14 +2,15 @@
   <img alt="Zubair Haider - Senior Full-Stack Engineer" width="100%" src="https://github.com/user-attachments/assets/350eeea5-958d-490a-be9c-271e1e6785e0" />
 </p>
 
-# Zubair Haider
+# Syed Zubair Haider
 
 Senior full-stack engineer (React / Next.js / Node) with 10+ years building SaaS products, schema-first platforms, and AI-assisted features.
 
 I ship production systems: GraphQL and REST APIs, MongoDB/Postgres data models, and Next.js UIs. Recent work includes Gemini-powered product features, a portfolio gain/loss engine, and Interactive Brokers tooling.
 
-- 📍 Lahore, Pakistan
-- 🔗 [LinkedIn](https://linkedin.com/in/zubairhaider0906)
+Open to **remote or Germany-based** senior frontend / full-stack roles.
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/syed-zubair-haider/)
 - 📧 zubairhaider0906@gmail.com
 
 ## Now
@@ -18,8 +19,6 @@ I ship production systems: GraphQL and REST APIs, MongoDB/Postgres data models, 
 - [trackPortfolio](https://github.com/zubair-builds/trackPortfolio) — financial dashboard and gain/loss engine
 - [ibkr](https://github.com/zubair-builds/ibkr) — Interactive Brokers tooling in Python
 - [job-orchestrator](https://github.com/zubair-builds/job-orchestrator) — TypeScript job orchestration
-
-Open to Next.js / Node work where product quality and performance both matter.
 
 ## Skills
 
@@ -74,7 +73,7 @@ Open to Next.js / Node work where product quality and performance both matter.
 AI English-learning platform (Next.js, TypeScript, MongoDB, Gemini). Context-aware meanings in under 2s; API routes with indexing under ~100ms; UI at 95+ Lighthouse.
 
 **Senior Full-Stack Engineer | Unqork** · 08/2022 – 08/2025  
-Schema-first no-code platform used by Fortune 500 finance teams. JSON Schema data model with revisions; per-module MongoDB collections (~40% query improvement); React portals on a workspace-scoped GraphQL API.
+Schema-first no-code platform used by Fortune 500 finance teams (remote, US). JSON Schema data model with revisions; per-module MongoDB collections (~40% query improvement); React portals on a workspace-scoped GraphQL API.
 
 **Senior Software Engineer | GigaLabs** · 11/2020 – 08/2022  
 Flavorwiki — survey and analytics SaaS. Led React + GraphQL + Redux frontend: survey builders, dashboards, Puppeteer exports, i18n.
@@ -93,4 +92,4 @@ Employer products (not public source): Lexic Intelligence, Unqork, Flavorwiki, C
 
 ## Education
 
-**BS Computer Science** · National University of Computer & Emerging Sciences, Lahore · 2011–2015
+**BS Computer Science** · National University of Computer & Emerging Sciences (FAST-NUCES) · 2011–2015
