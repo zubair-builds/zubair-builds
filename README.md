@@ -6,7 +6,7 @@
 
 Senior full-stack engineer (React / Next.js / Node) with 10+ years building SaaS products, schema-first platforms, and AI-assisted features.
 
-I ship production systems: GraphQL and REST APIs, MongoDB/Postgres data models, and Next.js UIs. Recent work includes Gemini-powered product features, a portfolio gain/loss engine, and Interactive Brokers tooling.
+I ship production systems: GraphQL and REST APIs, MongoDB/Postgres data models, and Next.js UIs. Recent work includes Gemini-powered product features, a portfolio gain/loss engine, statement RAG, and Interactive Brokers tooling.
 
 Open to **remote or Germany-based** senior frontend / full-stack roles.
 
@@ -16,10 +16,10 @@ Open to **remote or Germany-based** senior frontend / full-stack roles.
 ## Now
 
 - Building AI-assisted product features (Gemini / LLM workflows) on Next.js + TypeScript
-- [PortfolioTrack](https://github.com/zubair-builds/portfolio-track) — PSX financial dashboard and gain/loss engine
-- [IBKR Trading Desk](https://github.com/zubair-builds/ibkr-trading-desk) — Interactive Brokers gateway, FastAPI, React dashboard
-- [Liquidity Sweep Lab](https://github.com/zubair-builds/liquidity-sweep-lab) — ICT sweep model + Next.js dashboard
-- [MCP Notes & Alerts](https://github.com/zubair-builds/mcp-notes-alerts) — personal MCP server on Next.js + Postgres
+- [PortfolioTrack](https://github.com/zubair-builds/portfolio-track) — PSX dashboard and gain/loss engine
+- [DocuMind](https://github.com/zubair-builds/documind) — statement PDFs, Gemini RAG, spend analysis
+- [DocuMind app](https://github.com/zubair-builds/documind-app) — Expo client for DocuMind
+- [IBKR Trading Desk](https://github.com/zubair-builds/ibkr-trading-desk) — IB Gateway, FastAPI, React dashboard
 
 ## Skills
 
@@ -84,11 +84,16 @@ CollegeAdvisor (React, GraphQL) — render time ~2s → under 1s. RCBS Matchmast
 
 ## Public work
 
-- [PortfolioTrack](https://github.com/zubair-builds/portfolio-track) — Next.js / TypeScript PSX dashboard
-- [IBKR Trading Desk](https://github.com/zubair-builds/ibkr-trading-desk) — IB Gateway + FastAPI + React
-- [Liquidity Sweep Lab](https://github.com/zubair-builds/liquidity-sweep-lab) — ICT sweep model + Next.js dashboard
-- [MCP Notes & Alerts](https://github.com/zubair-builds/mcp-notes-alerts) — MCP server, Postgres, dashboard
-- [job-orchestrator](https://github.com/zubair-builds/job-orchestrator) — scrape → Next.js triage
+Pinned:
+
+- [portfolio-track](https://github.com/zubair-builds/portfolio-track) — PSX portfolio dashboard (Next.js, MongoDB, Gemini)
+- [documind](https://github.com/zubair-builds/documind) — unlock statement PDFs, Gemini RAG, spend analysis
+- [documind-app](https://github.com/zubair-builds/documind-app) — Expo client for DocuMind
+- [ibkr-trading-desk](https://github.com/zubair-builds/ibkr-trading-desk) — IB Gateway + FastAPI + React
+- [mcp-notes-alerts](https://github.com/zubair-builds/mcp-notes-alerts) — personal MCP server (notes, alerts, Postgres)
+- [job-orchestrator](https://github.com/zubair-builds/job-orchestrator) — job scrape → Next.js triage with Gemini
+
+Also public: [liquidity-sweep-lab](https://github.com/zubair-builds/liquidity-sweep-lab).
 
 Employer products (not public source): Lexic Intelligence, Unqork, Flavorwiki, CollegeAdvisor, RCBS Matchmaster.
 
