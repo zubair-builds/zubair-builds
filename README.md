@@ -6,7 +6,7 @@
 
 Senior full-stack engineer (React / Next.js / Node) with 10+ years building SaaS products, schema-first platforms, and AI-assisted features.
 
-I ship production systems: GraphQL and REST APIs, MongoDB/Postgres data models, and Next.js UIs. Recent work includes Gemini-powered product features, a portfolio gain/loss engine, statement RAG, and Interactive Brokers tooling.
+I ship production systems: GraphQL and REST APIs, MongoDB/Postgres data models, and Next.js UIs. Recent work includes LLM-backed product features (RAG, extraction, triage), a portfolio gain/loss engine, and Interactive Brokers tooling. Model choice is an implementation detail — recent personal projects used Gemini; the same patterns work with other providers.
 
 Open to **remote or Germany-based** senior frontend / full-stack roles.
 
@@ -15,9 +15,9 @@ Open to **remote or Germany-based** senior frontend / full-stack roles.
 
 ## Now
 
-- Building AI-assisted product features (Gemini / LLM workflows) on Next.js + TypeScript
+- Building LLM-assisted product features on Next.js + TypeScript
 - [PortfolioTrack](https://github.com/zubair-builds/portfolio-track) — PSX dashboard and gain/loss engine
-- [DocuMind](https://github.com/zubair-builds/documind) — statement PDFs, Gemini RAG, spend analysis
+- [DocuMind](https://github.com/zubair-builds/documind) — statement PDFs, RAG chat, spend analysis
 - [DocuMind app](https://github.com/zubair-builds/documind-app) — Expo client for DocuMind
 - [IBKR Trading Desk](https://github.com/zubair-builds/ibkr-trading-desk) — IB Gateway, FastAPI, React dashboard
 
@@ -31,13 +31,13 @@ Open to **remote or Germany-based** senior frontend / full-stack roles.
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
 </p>
 
 ## Experience
 
 **Senior Full-Stack Engineer | Lexic Intelligence** · 09/2025 – Present  
-AI English-learning platform (Next.js, TypeScript, MongoDB, Gemini). Context-aware meanings in under 2s; API routes with indexing under ~100ms; UI at 95+ Lighthouse.
+AI English-learning platform (Next.js, TypeScript, MongoDB, LLM APIs). Context-aware meanings in under 2s; API routes with indexing under ~100ms; UI at 95+ Lighthouse.
 
 **Senior Full-Stack Engineer | Unqork** · 08/2022 – 08/2025  
 Schema-first no-code platform used by Fortune 500 finance teams (remote, US). JSON Schema data model with revisions; per-module MongoDB collections (~40% query improvement); React portals on a workspace-scoped GraphQL API.
@@ -52,12 +52,12 @@ CollegeAdvisor (React, GraphQL) — render time ~2s → under 1s. RCBS Matchmast
 
 Pinned:
 
-- [portfolio-track](https://github.com/zubair-builds/portfolio-track) — PSX portfolio dashboard (Next.js, MongoDB, Gemini)
-- [documind](https://github.com/zubair-builds/documind) — unlock statement PDFs, Gemini RAG, spend analysis
+- [portfolio-track](https://github.com/zubair-builds/portfolio-track) — PSX portfolio dashboard (Next.js, MongoDB, LLM features)
+- [documind](https://github.com/zubair-builds/documind) — unlock statement PDFs, RAG chat, spend analysis
 - [documind-app](https://github.com/zubair-builds/documind-app) — Expo client for DocuMind
 - [ibkr-trading-desk](https://github.com/zubair-builds/ibkr-trading-desk) — IB Gateway + FastAPI + React
 - [mcp-notes-alerts](https://github.com/zubair-builds/mcp-notes-alerts) — personal MCP server (notes, alerts, Postgres)
-- [job-orchestrator](https://github.com/zubair-builds/job-orchestrator) — job scrape → Next.js triage with Gemini
+- [job-orchestrator](https://github.com/zubair-builds/job-orchestrator) — job scrape → Next.js triage with an LLM
 
 Also public: [liquidity-sweep-lab](https://github.com/zubair-builds/liquidity-sweep-lab).
 
