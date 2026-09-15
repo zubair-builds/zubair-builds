@@ -18,7 +18,8 @@ Open to **remote or Germany-based** senior frontend / full-stack roles.
 - Building AI-assisted product features (Gemini / LLM workflows) on Next.js + TypeScript
 - [PortfolioTrack](https://github.com/zubair-builds/portfolio-track) — PSX financial dashboard and gain/loss engine
 - [IBKR Trading Desk](https://github.com/zubair-builds/ibkr-trading-desk) — Interactive Brokers gateway, FastAPI, React dashboard
-- [job-orchestrator](https://github.com/zubair-builds/job-orchestrator) — TypeScript job orchestration
+- [Liquidity Sweep Lab](https://github.com/zubair-builds/TradeLab) — ICT sweep model + Next.js dashboard
+- [MCP Notes & Alerts](https://github.com/zubair-builds/mcp-mvp) — personal MCP server on Next.js + Postgres
 
 ## Skills
 
@@ -85,8 +86,9 @@ CollegeAdvisor (React, GraphQL) — render time ~2s → under 1s. RCBS Matchmast
 
 - [PortfolioTrack](https://github.com/zubair-builds/portfolio-track) — Next.js / TypeScript PSX dashboard
 - [IBKR Trading Desk](https://github.com/zubair-builds/ibkr-trading-desk) — IB Gateway + FastAPI + React
-- [job-orchestrator](https://github.com/zubair-builds/job-orchestrator) — TypeScript job orchestration
-- [expenseTrackingApp](https://github.com/zubair-builds/expenseTrackingApp) — TypeScript expense tracker
+- [Liquidity Sweep Lab](https://github.com/zubair-builds/TradeLab) — ICT sweep model + Next.js dashboard
+- [MCP Notes & Alerts](https://github.com/zubair-builds/mcp-mvp) — MCP server, Postgres, dashboard
+- [job-orchestrator](https://github.com/zubair-builds/job-orchestrator) — scrape → Next.js triage
 
 Employer products (not public source): Lexic Intelligence, Unqork, Flavorwiki, CollegeAdvisor, RCBS Matchmaster.
 
