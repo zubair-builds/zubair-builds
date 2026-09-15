@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Zubair Haider - Senior Full-Stack Engineer" width="100%" src="https://github.com/user-attachments/assets/350eeea5-958d-490a-be9c-271e1e6785e0" />
+  <img alt="Zubair Haider - Senior Full-Stack Engineer" width="100%" src="./banner.jpg" />
 </p>
 
 # Syed Zubair Haider
