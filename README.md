@@ -16,8 +16,8 @@ Open to **remote or Germany-based** senior frontend / full-stack roles.
 ## Now
 
 - Building AI-assisted product features (Gemini / LLM workflows) on Next.js + TypeScript
-- [PortfolioTrack](https://github.com/zubair-builds/trackPortfolio) — PSX financial dashboard and gain/loss engine
-- [IBKR Trading Desk](https://github.com/zubair-builds/ibkr) — Interactive Brokers gateway, FastAPI, React dashboard
+- [PortfolioTrack](https://github.com/zubair-builds/portfolio-track) — PSX financial dashboard and gain/loss engine
+- [IBKR Trading Desk](https://github.com/zubair-builds/ibkr-trading-desk) — Interactive Brokers gateway, FastAPI, React dashboard
 - [job-orchestrator](https://github.com/zubair-builds/job-orchestrator) — TypeScript job orchestration
 
 ## Skills
@@ -83,8 +83,8 @@ CollegeAdvisor (React, GraphQL) — render time ~2s → under 1s. RCBS Matchmast
 
 ## Public work
 
-- [PortfolioTrack](https://github.com/zubair-builds/trackPortfolio) — Next.js / TypeScript PSX dashboard
-- [IBKR Trading Desk](https://github.com/zubair-builds/ibkr) — IB Gateway + FastAPI + React
+- [PortfolioTrack](https://github.com/zubair-builds/portfolio-track) — Next.js / TypeScript PSX dashboard
+- [IBKR Trading Desk](https://github.com/zubair-builds/ibkr-trading-desk) — IB Gateway + FastAPI + React
 - [job-orchestrator](https://github.com/zubair-builds/job-orchestrator) — TypeScript job orchestration
 - [expenseTrackingApp](https://github.com/zubair-builds/expenseTrackingApp) — TypeScript expense tracker
 
